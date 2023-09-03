@@ -4,7 +4,11 @@ body {
   padding: 10px 15px;
   margin: 20px auto;
 }
-
+.background {
+  width: 100;
+  margin: 0 auto;
+  display: block;
+}
 h1 {
   text-align: center;
 }
@@ -53,4 +57,7 @@ ul {
 }
 li {
   text-align: center;
+}
+.openSource {
+  color: rgb(73, 11, 108);
 }
