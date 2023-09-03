@@ -1,0 +1,56 @@
+body {
+  max: width 700px;
+  border: 1px solid black;
+  padding: 10px 15px;
+  margin: 20px auto;
+}
+
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  font-size: 45px;
+}
+
+ul {
+  text-align: left;
+}
+
+.temperature {
+  color: rgb(33, 33, 33);
+  font-size: 43px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.units {
+  position: relative;
+  top: -34px;
+}
+
+.search-form {
+  display: block;
+  margin-bottom: 13px;
+}
+.weatherContent {
+  position: relative;
+  height: auto;
+  top: 0;
+}
+
+h3 {
+  text-align: center;
+  font-size: 15px;
+}
+h4 {
+  font-family: "Shippori Mincho", serif;
+  font-size: 17px;
+  font-weight: 500;
+}
+ul {
+  text-align: center;
+}
+li {
+  text-align: center;
+}
